@@ -1,4 +1,4 @@
-## Olá, eu sou a Gabriela Samor, seja bem vindo(a)!
+## Olá, eu sou a Gabriela Samor, seja bem vindo(a)! ✨
 
  <div>
     <a href= "https://github.com/gabrielasamor">
